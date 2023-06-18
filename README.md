@@ -7,3 +7,6 @@ git test gy
 test dev
 
 gy test master
+gy test feature
+
+test nerge
